@@ -7,7 +7,7 @@ $(document).ready(function(){
       strings: [
       "Hi there stanger!",
       "I'm Kwabena",
-      "stalk me below.",
+      "check me out below.",
       ],
       typeSpeed: 60,
       backSpeed: 30,
